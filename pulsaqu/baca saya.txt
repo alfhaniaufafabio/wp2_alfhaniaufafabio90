@@ -1,0 +1,2 @@
+user default : admin@admin.com
+paswd 	: administrator
